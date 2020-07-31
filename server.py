@@ -1,3 +1,7 @@
+# Ссылки для проверки:
+# https://tranquil-escarpment-45744.herokuapp.com/success
+# https://tranquil-escarpment-45744.herokuapp.com/fail
+
 import os
 import sentry_sdk
 
